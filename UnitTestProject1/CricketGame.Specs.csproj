@@ -80,6 +80,11 @@
     </Compile>
     <Compile Include="PlayerScoreSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MultiPlayerScore.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MultiPlayerScore.feature</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -87,6 +92,10 @@
     <None Include="PlayerScore.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>PlayerScore.feature.cs</LastGenOutput>
+    </None>
+    <None Include="MultiPlayerScore.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>MultiPlayerScore.feature.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>

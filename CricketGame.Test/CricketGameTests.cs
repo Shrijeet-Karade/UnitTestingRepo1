@@ -7,22 +7,22 @@ namespace CricketGame.Test
     public class CricketGameTests
     {
         [TestMethod]
-        public void PlayerScore_NewGame_ShouldBeZero()
+        public void Player1Score_NewGame_ShouldBeZero()
         {
             var game = new Cricket();
-            Assert.IsTrue(game.PlayerScore == 0);
+            Assert.IsTrue(game.Player1Score == 0);
         }
-        public void Score_ValidRuns_ShouldUpdatePlayerScore()
+        public void Score_ValidRuns_ShouldUpdatePlayer1Score()
         {
             var game = new Cricket();
-            game.Scores(3);
-            Assert.IsTrue(game.PlayerScore == 3);
+            game.Player1Scores(3);
+            Assert.IsTrue(game.Player1Score == 3);
         }
-        public void Score_InValidRuns_ShouldUpdatePlayerScore()
+        public void Score_InValidRuns_ShouldUpdatePlayer1Score()
         {
             var game = new Cricket();
-            game.Scores(7);
-            Assert.IsTrue(game.PlayerScore == 0);
+            game.Player1Scores(7);
+            Assert.IsTrue(game.Player1Score == 0);
         }
 
     }
