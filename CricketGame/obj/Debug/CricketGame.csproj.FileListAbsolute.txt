@@ -1,0 +1,11 @@
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\CricketGame.dll
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.dll
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\System.ValueTuple.dll
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.pdb
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\FluentAssertions.xml
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\bin\Debug\System.ValueTuple.xml
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.csprojResolveAssemblyReference.cache
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.dll
+C:\Users\skarade\source\repos\UnitTestProject1\CricketGame\obj\Debug\CricketGame.pdb
